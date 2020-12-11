@@ -18,7 +18,7 @@ This resource is a introduction for k8s, learn the basics
 
 - resource link: https://www.edx.org/course/introduction-to-kubernetes
 - difficulty: beginnner 
-- price: **free**
+- price: **free***, but you need to pay $140~ to take mini tests (you also get a certifcation if you pass) 
 - personal bias: Currently going over this
 
 
