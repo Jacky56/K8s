@@ -19,7 +19,7 @@ This resource is a introduction for k8s, learn the basics
 - resource link: https://www.edx.org/course/introduction-to-kubernetes
 - difficulty: beginnner 
 - price: **free***, but you need to pay $140~ to take mini tests (you also get a certifcation if you pass) 
-- personal bias: Currently going over this
+- personal bias: This is the go to if you're completely new to k8s
 
 
 ### Udemy course for certified kubernetes application developer
@@ -31,6 +31,14 @@ This is explicitly for the certified kubernetes application developer
 - price: averages around £13~
 - personal bias: have not started
 
+### official CKAS learning path
+
+This is the official learning path from CNCF which will prepare you for CKAD
+
+- resource link: https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
+- difficulty: 
+- price:
+- personal bias: 
 
 ## Stories of people who took the exam
 
