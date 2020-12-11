@@ -27,11 +27,11 @@ This resource is a introduction for k8s, learn the basics
 This is explicitly for the certified kubernetes application developer
 
 - resource link: https://www.udemy.com/course/certified-kubernetes-application-developer/
-- difficulty: beginnner 
+- difficulty:  
 - price: averages around £13~
-- personal bias: have not started
+- personal bias: 
 
-### official CKAS learning path
+### Official CNCF learning path
 
 This is the official learning path from CNCF which will prepare you for CKAD
 
