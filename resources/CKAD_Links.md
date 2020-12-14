@@ -19,7 +19,9 @@ This resource is a introduction for k8s, learn the basics
 - resource link: https://www.edx.org/course/introduction-to-kubernetes
 - difficulty: beginnner 
 - price: **free***, but you need to pay $140~ to take mini tests (you also get a certifcation if you pass) 
-- personal bias: This is the go to if you're completely new to k8s
+- personal bias: This is the go to if you're completely new to k8s.
+  - chapter 1 to 3 is not very useful
+  - chatper 4 teaches you how kubernetes work, whats on the master node, what each component does on the master node and what is a worker node.
 
 
 ### Udemy course for certified kubernetes application developer
