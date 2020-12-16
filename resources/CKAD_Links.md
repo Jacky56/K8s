@@ -6,8 +6,8 @@ This `md` file will split into two sections:
   - difficulty 
   - price
   - personal bias
-- Stories of people who took the exam
-  - synopsis of story
+- General tips
+  - synopsis of content
   - personal bias
 
 ## Material and resources
@@ -42,7 +42,26 @@ This is the official learning path from CNCF which will prepare you for CKAD
 - price:
 - personal bias: 
 
-## Stories of people who took the exam
+### Kubernetes The Hard Way
+
+Learn how to setup kubernetes cluster
+
+- resource link: https://github.com/kelseyhightower/kubernetes-the-hard-way
+- difficulty: 
+- price: **free**
+- personal bias: 
+
+### CKAD prep
+
+This repo contains example questions of CKAD
+
+
+- resource link: https://github.com/bmuschko/ckad-prep
+- difficulty: 
+- price: **free**
+- personal bias: 
+
+## General tips 
 
 ### Guduru Janardhan
 
@@ -59,3 +78,19 @@ contains:
 link: https://medium.com/@guduru_j/my-path-to-certified-kubernetes-application-developer-ckad-8681ea02e8a0
 
 personal bias: Decent read, have material read and use for CKAD.
+
+### Preparing for Kubernetes certification exams
+
+Prep and tips for CKAD exam
+
+link: https://www.bmc.com/blogs/kubernetes-certifications/
+
+personal bias: The links provided is quite useful
+
+### twajr/ckad-prep-notes
+
+Compilation of CKAD material for k8s 1.14
+
+link: https://github.com/twajr/ckad-prep-notes
+
+personal bias:
