@@ -22,6 +22,10 @@ This resource is a introduction for k8s, learn the basics
 - personal bias: This is the go to if you're completely new to k8s.
   - chapter 1 to 3 is not very useful
   - chatper 4 teaches you how kubernetes work, whats on the master node, what each component does on the master node and what is a worker node.
+  - chapter 5 architecture model 
+  - chapter 6 install minikube 
+  - chapter 7 getting access token and api server url and how to list all objects in kubernetes, **important**
+  
 
 
 ### Udemy course for certified kubernetes application developer
