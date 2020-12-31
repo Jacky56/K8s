@@ -25,7 +25,8 @@ This resource is a introduction for k8s, learn the basics
   - chapter 5 architecture model, **important for CKA**
   - chapter 6 install minikube 
   - chapter 7 getting access token and api server url and how to list all objects in kubernetes, **important**
-  
+  - chapter 8 understanding objects, pods, controllers, labels and selectors **important**
+  - chapter 9 understanding security **important**
 
 
 ### Udemy course for certified kubernetes application developer
